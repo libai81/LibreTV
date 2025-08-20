@@ -26,9 +26,9 @@ const API_SITES = {
         name: '电影天堂资源',
         detail: 'http://caiji.dyttzyapi.com',
     },
-    ruyi: {
-        api: 'https://cj.rycjapi.com',
-        name: '如意资源',
+    vjav: {
+        api: 'https://vjav.com',
+        name: '称心如意',
     },
     bfzy: {
         api: 'https://bfzyapi.com',
