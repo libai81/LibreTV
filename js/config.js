@@ -21,10 +21,7 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-    dyttzy:{
-    "cache_time": 9200,
-    "api_site": {
-        "api_1": {
+    dyttzy: {
             "name": "TV-1080资源",
             "api": "https://api.1080zyku.com/inc/api_mac10.php",
             "detail": "https://api.1080zyku.com"
